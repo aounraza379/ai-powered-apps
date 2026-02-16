@@ -1,0 +1,6 @@
+[submodule "nexuscorporate"]
+	path = nexuscorporate
+	url = https://github.com/aounraza379/nexuscorporate.git
+[submodule "neuroscan-identity"]
+	path = neuroscan-identity
+	url = https://github.com/aounraza379/neuroscan-identity.git
